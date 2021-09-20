@@ -1,0 +1,17 @@
+{
+  "name": "brime.js",
+  "version": "1.0.0",
+  "description": "Brime.tv Javascript Helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brime.tv",
+    "brime",
+    "live",
+    "streaming"
+  ],
+  "author": "BRIME.TV",
+  "license": "ISC"
+}
